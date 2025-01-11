@@ -1,0 +1,143 @@
+Berikut adalah daftar skill yang bisa didapat untuk setiap kelas ketika naik level, beserta persyaratan level yang dibutuhkan:
+
+### Dhenias
+#### Chronomancer
+1. **Time Warp** - Level 1
+   - Memulihkan seluruh party sebesar 50% HP dan membatalkan efek negatif.
+   - **MP-Cost:** 50
+2. **Temporal Strike** - Level 5
+   - Serangan fisik yang memperlambat waktu musuh, mengurangi Agility musuh selama 2 putaran.
+   - **MP-Cost:** 20
+3. **Time Shield** - Level 10
+   - Memberikan perisai waktu yang menyerap serangan musuh selama 2 putaran.
+   - **MP-Cost:** 30
+4. **Chrono Heal** - Level 20
+   - Memulihkan 30% HP seluruh party dan memberikan regenerasi HP selama 3 putaran.
+   - **MP-Cost:** 40
+5. **Time Freeze** - Level 30
+   - Membekukan waktu untuk semua musuh selama 1 putaran, membuat mereka tidak bisa bergerak.
+   - **MP-Cost:** 60
+
+#### Sentinel
+1. **Guardian's Shield** - Level 1
+   - Menciptakan perisai energi yang melindungi seluruh party dari serangan musuh selama 3 putaran.
+   - **MP-Cost:** 40
+2. **Shield Bash** - Level 5
+   - Serangan dengan perisai yang dapat memukul mundur musuh, menyebabkan Stun selama 1 putaran.
+   - **MP-Cost:** 20
+3. **Fortify** - Level 10
+   - Meningkatkan Defense seluruh party sebesar 20% selama 3 putaran.
+   - **MP-Cost:** 25
+4. **Iron Will** - Level 20
+   - Mengurangi semua kerusakan yang diterima oleh party sebesar 30% selama 3 putaran.
+   - **MP-Cost:** 35
+5. **Aegis** - Level 30
+   - Memberikan kekebalan terhadap semua serangan fisik kepada party selama 2 putaran.
+   - **MP-Cost:** 50
+
+### Fathir
+#### Celestial Sage
+1. **Healing Nova** - Level 1
+   - Menyembuhkan seluruh party sebesar 75% HP dan menghilangkan status negatif.
+   - **MP-Cost:** 60
+2. **Light Beam** - Level 5
+   - Serangan sihir cahaya yang menyebabkan kerusakan besar pada satu musuh.
+   - **MP-Cost:** 25
+3. **Holy Shield** - Level 10
+   - Memberikan perisai suci kepada satu anggota party yang menyerap serangan selama 3 putaran.
+   - **MP-Cost:** 30
+4. **Divine Blessing** - Level 20
+   - Meningkatkan Magic Attack dan Magic Defense seluruh party sebesar 25% selama 3 putaran.
+   - **MP-Cost:** 40
+5. **Resurrection** - Level 30
+   - Membangkitkan anggota party yang kalah dengan 50% HP.
+   - **MP-Cost:** 70
+
+#### Arcane Enchanter
+1. **Enchantment Mastery** - Level 1
+   - Memberikan buff kepada seluruh party, meningkatkan serangan, pertahanan, atau kecepatan sebesar 50% selama 5 putaran.
+   - **MP-Cost:** 50
+2. **Arcane Bolt** - Level 5
+   - Menyerang musuh dengan panah sihir, menyebabkan kerusakan sedang.
+   - **MP-Cost:** 20
+3. **Mana Infusion** - Level 10
+   - Memulihkan MP seluruh party sebesar 30%.
+   - **MP-Cost:** 35
+4. **Elemental Enchant** - Level 20
+   - Memberikan buff elemental kepada seluruh party, meningkatkan kerusakan elemen tertentu selama 3 putaran.
+   - **MP-Cost:** 45
+5. **Arcane Surge** - Level 30
+   - Meningkatkan semua atribut Magic Attack seluruh party sebesar 40% selama 4 putaran.
+   - **MP-Cost:** 55
+
+### Reivan
+#### Blademaster
+1. **Blade Dance** - Level 1
+   - Menyerang musuh dengan tiga serangan bertubi-tubi, masing-masing sebesar 80% serangan biasa.
+   - **MP-Cost:** 45
+2. **Swift Strike** - Level 5
+   - Serangan cepat yang memberikan kerusakan dan meningkatkan Agility Reivan selama 2 putaran.
+   - **MP-Cost:** 20
+3. **Defense Break** - Level 10
+   - Menyerang dengan kekuatan penuh, mengurangi Defense musuh selama 2 putaran.
+   - **MP-Cost:** 30
+4. **Dual Slash** - Level 20
+   - Serangan ganda yang mengenai dua musuh sekaligus.
+   - **MP-Cost:** 35
+5. **Frenzy** - Level 30
+   - Meningkatkan kecepatan serangan dan memberikan serangan tambahan selama 3 putaran.
+   - **MP-Cost:** 50
+
+#### Berserker
+1. **Fury of the Wild** - Level 1
+   - Meningkatkan kecepatan dan serangan sebesar 100% selama 3 putaran.
+   - **MP-Cost:** 55
+2. **Raging Slash** - Level 5
+   - Serangan brutal yang memberikan kerusakan besar tetapi mengurangi Defense Reivan selama 2 putaran.
+   - **MP-Cost:** 25
+3. **Bloodlust** - Level 10
+   - Menghisap HP dari musuh, menyembuhkan Reivan sebesar 50% dari kerusakan yang diberikan.
+   - **MP-Cost:** 30
+4. **Battle Cry** - Level 20
+   - Meningkatkan Attack seluruh party sebesar 20% selama 3 putaran.
+   - **MP-Cost:** 40
+5. **Berserk Mode** - Level 30
+   - Memasuki mode berang, meningkatkan Attack dan kecepatan serangan tetapi mengurangi Defense selama 4 putaran.
+   - **MP-Cost:** 60
+
+### Aulia
+#### Technomancer
+1. **Techno Overload** - Level 1
+   - Mengubah senjata dan perlengkapannya menjadi senjata tingkat tinggi, meningkatkan serangan sebesar 150% selama 3 putaran.
+   - **MP-Cost:** 50
+2. **Laser Shot** - Level 5
+   - Menembakkan sinar laser yang memberikan kerusakan besar pada satu musuh.
+   - **MP-Cost:** 20
+3. **EMP Blast** - Level 10
+   - Mengganggu perangkat musuh, mengurangi Agility dan Magic Attack mereka selama 2 putaran.
+   - **MP-Cost:** 30
+4. **Nano Repair** - Level 20
+   - Menggunakan nanobot untuk menyembuhkan seluruh party sebesar 40% HP.
+   - **MP-Cost:** 40
+5. **Techno Shield** - Level 30
+   - Memberikan perisai teknologi yang menyerap serangan fisik dan sihir selama 3 putaran.
+   - **MP-Cost:** 50
+
+#### Tinkerer
+1. **Mechanical Minions** - Level 1
+   - Memanggil 2 drone kecil yang menyerang musuh dengan serangan sebesar 50% serangan biasa atau menyembuhkan party sebesar 50% HP. Drone tetap aktif selama 3 putaran.
+   - **MP-Cost:** 40
+2. **Gadget Barrage** - Level 5
+   - Menyerang musuh dengan serangan bertubi-tubi dari berbagai gadget.
+   - **MP-Cost:** 25
+3. **Trap Setup** - Level 10
+   - Memasang perangkap yang melukai dan memerangkap musuh selama 2 putaran.
+   - **MP-Cost:** 30
+4. **Enhance Weaponry** - Level 20
+   - Meningkatkan serangan dan ketepatan seluruh party sebesar 30% selama 3 putaran.
+   - **MP-Cost:** 35
+5. **Overclock** - Level 30
+   - Meningkatkan semua atribut Aulia sebesar 25% selama 4 putaran, tetapi menyebabkan kerusakan ringan pada Aulia setiap putaran.
+   - **MP-Cost:** 45
+
+Setiap kelas memiliki jalur peningkatan skill yang unik, menawarkan berbagai kemampuan yang memperkuat keunggulan masing-masing kelas dalam pertempuran dan memberikan pengalaman bermain yang dinamis.
